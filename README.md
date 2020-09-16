@@ -1,5 +1,9 @@
 # countdown
 
+belajar
+
+
+
 ## Project setup
 ```
 npm install
